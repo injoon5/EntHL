@@ -36,7 +36,7 @@ How To Use: https://pneuma714.github.io/EntHL`,
     // Style Link
     let style = document.createElement('link');
     style.rel = 'stylesheet';
-    style.href = '//pneuma714.github.io/EntHL/style.css';
+    style.href = '//thoratica.github.io/EntHL/style.css';
     document.body.appendChild(style);
 
     // hljs CSS Link
